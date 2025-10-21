@@ -1,0 +1,12 @@
+||tiktok.com^
+||steam.com^
+||steamcommunity.com^
+||steamgames.com^
+||steampowered.com^
+||valvesoftware.com^
+||steamstatic.com^
+||rockstargames.com^
+||riotgmes.com^
+||roblox.com^
+||fornite.com^
+||epicgames.com^

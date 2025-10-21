@@ -125,5 +125,15 @@
 ||minecraft.co.uk^
 ||hypixel.net^
 ||newgrounds.com^
-
+||ea.com^
+||gamepass.com^
+||ubi.com^
+||xboxlive.com^
+||steamcontent.com^
+||epicgames.com^
+||lilithgame.com^
+||riotcdn.com^
+||netherrealm.com^
+||riotgames.com^
+||steamserver.com^
 

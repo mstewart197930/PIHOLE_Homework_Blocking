@@ -1,0 +1,7 @@
+||netflix.com^
+||netflix.co.uk^
+||nowtv.com^
+||amazon.co.uk^
+||amazon.com^
+||disneyplus.com^
+||youtube.com^

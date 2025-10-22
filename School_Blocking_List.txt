@@ -136,4 +136,4 @@
 ||netherrealm.com^
 ||riotgames.com^
 ||steamserver.com^
-
+||krunker.io^

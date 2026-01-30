@@ -1,18 +1,19 @@
-0.0.0.0 netflix.com 
-0.0.0.0 netflix.co.uk 
-0.0.0.0 nowtv.com 
-0.0.0.0 amazon.co.uk 
-0.0.0.0 amazon.com 
-0.0.0.0 disneyplus.com 
-0.0.0.0 youtube.com 
-0.0.0.0 youtube.co.uk
-0.0.0.0 bbc.co.uk
-0.0.0.0 itv.co.uk
-0.0.0.0 itv.com
-0.0.0.0 bbc.com
-0.0.0.0 shudder.com
-0.0.0.0 tubitv.com
-0.0.0.0 pluto.tv
-0.0.0.0 roku.com
-0.0.0.0 *.spotify.com
-0.0.0.0 *.spotify.co.uk
+||youtube.co.uk
+||bbc.co.uk
+||itv.co.uk
+||itv.com
+||bbc.com
+||shudder.com
+||tubitv.com
+||pluto.tv
+||roku.com
+||spotify.com
+||spotify.co.uk
+||netflix.com^
+||netflix.co.uk^
+||nowtv.com^
+||amazon.co.uk^
+||amazon.com^
+||disneyplus.com^
+||youtube.com^
+

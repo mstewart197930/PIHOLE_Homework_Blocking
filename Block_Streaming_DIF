@@ -14,5 +14,5 @@
 0.0.0.0 tubitv.com
 0.0.0.0 pluto.tv
 0.0.0.0 roku.com
-0.0.0.0 spotify.com
-0.0.0.0 spotify.co.uk
+0.0.0.0 *.spotify.com
+0.0.0.0 *.spotify.co.uk

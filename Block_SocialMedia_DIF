@@ -3,6 +3,215 @@
 ||discord.gg^
 ||discordapp.net^
 
+# This blocklist helps Adguard admin restrict access to twitter and its domains.
+# Curated from sources online.
+
+||twitter.com^
+||twttr.com^
+||t.co^
+||twimg.com^
+
+
+# This blocklist helps Adguard admin restrict access to twitch and its domains.
+# Curated from sources online.
+
+||twitch.tv^
+||ttvnw.net^
+||jtvnw.net^
+||twitchcdn.net^
+
+
+# This blocklist helps Adguard restrict access to Streamz and its domains.
+
+||lfvp-ios-api.dpgmedia.net^
+||videoplayer-service.dpgmedia.net^
+||drm.mp.lura.live^
+||video-scrub-images.persgroep.be^
+||dcs-vod.mp.lura.live^
+||lfvp-api.dpgmedia.net^
+||video-od.dpgmedia.net^
+||images3.persgroep.net^
+
+
+
+# This blocklist helps Adguard admin restrict access to snapchat and its domains.
+# Curated from sources online.
+
+||snapchat.com^
+||sc-cdn.net^
+||snap-dev.net^
+||snapkit.co
+||snapads.com^
+||impala-media-production.s3.amazonaws.com^
+
+
+
+# This blocklist helps Adguard admin restrict access to reddit and its domains.
+# Curated from sources online.
+
+||reddit.com^
+||redditstatic.com^
+||redditmedia.com^
+||redd.it^
+
+
+# This blocklist helps Adguard admin restrict access to instagram and its domains.
+# Curated from sources online.
+# Last updated: 9 december 2019
+
+||api.instagram.com^
+||black.ish.instagram.com^
+||i.instagram.com^
+||instagram-shv-01-ams2.fbcdn.net^
+||instagram-shv-01-ams3.fbcdn.net^
+||instagram-shv-01-ash5.fbcdn.net^
+||instagram-shv-01-atl1.fbcdn.net^
+||instagram-shv-01-bru2.fbcdn.net^
+||instagram-shv-01-cai1.fbcdn.net^
+||instagram-shv-01-cdg2.fbcdn.net^
+||instagram-shv-01-dfw1.fbcdn.net^
+||instagram-shv-01-fra3.fbcdn.net^
+||instagram-shv-01-gru1.fbcdn.net^
+||instagram-shv-01-hkg2.fbcdn.net^
+||instagram-shv-01-iad3.fbcdn.net^
+||instagram-shv-01-kul1.fbcdn.net^
+||instagram-shv-01-lax1.fbcdn.net^
+||instagram-shv-01-lga1.fbcdn.net^
+||instagram-shv-01-lhr3.fbcdn.net^
+||instagram-shv-01-mad1.fbcdn.net^
+||instagram-shv-01-mia1.fbcdn.net^
+||instagram-shv-01-mxp1.fbcdn.net^
+||instagram-shv-01-nrt1.fbcdn.net^
+||instagram-shv-01-ord1.fbcdn.net^
+||instagram-shv-01-sea1.fbcdn.net^
+||instagram-shv-01-sin1.fbcdn.net^
+||instagram-shv-01-sjc2.fbcdn.net^
+||instagram-shv-01-syd1.fbcdn.net^
+||instagram-shv-01-tpe1.fbcdn.net^
+||instagram-shv-01-vie1.fbcdn.net^
+||instagram-shv-02-cai1.fbcdn.net^
+||instagram-shv-02-hkg2.fbcdn.net^
+||instagram-shv-03-ash5.fbcdn.net^
+||instagram-shv-03-atn1.fbcdn.net^
+||instagram-shv-03-hkg1.fbcdn.net^
+||instagram-shv-03-lla1.fbcdn.net^
+||instagram-shv-03-prn2.fbcdn.net^
+||instagram-shv-03-xdc1.fbcdn.net^
+||instagram-shv-04-hkg1.fbcdn.net^
+||instagram-shv-06-atn1.fbcdn.net^
+||instagram-shv-06-lla1.fbcdn.net^
+||instagram-shv-07-ash4.fbcdn.net^
+||instagram-shv-07-frc3.fbcdn.net^
+||instagram-shv-09-frc1.fbcdn.net^
+||instagram-shv-09-lla1.fbcdn.net^
+||instagram-shv-12-frc1.fbcdn.net^
+||instagram-shv-12-frc3.fbcdn.net^
+||instagram-shv-12-lla1.fbcdn.net^
+||instagram-shv-12-prn1.fbcdn.net^
+||instagram-shv-13-frc1.fbcdn.net^
+||instagram-shv-17-prn1.fbcdn.net^
+||instagram-shv-18-prn1.fbcdn.net^
+||instagram.com^
+||instagramstatic-a.akamaihd.net^
+||instagramstatic-a.akamaihd.net.edgesuite.net^
+||logger.instagram.com^
+||platform.instagram.com^
+||scontent-iad3-1.cdninstagram.com^
+||scontent.cdninstagram.com^
+||telegraph-ash.instagram.com^
+||white.ish.instagram.com^
+||www.instagram.com^
+||cdninstagram.com^
+||graph.instagram.com^
+||edge-mqtt.facebook.com^
+||i.instagram.com^
+
+
+||pubads.g.doubleclick.net^
+||*.theoplayer.com^
+||wp-a700000000000000.id.cdn1.prd.telenet-ops.be^
+||*.viervijfzes.be^
+||*.goplay.be^
+||*.googlevideo.com^
+||*.gvt1.com^
+||stream1-vod.cdn1.sbs.prd.telenet-ops.be^
+
+
+
+
+
+# This blocklist helps Pi-hole's admin restrict access to instagram and its domains.
+# Curated from  sources online.
+# Last updated: 9 december 2019
+
+
+0.0.0.0 api.instagram.com
+0.0.0.0	black.ish.instagram.com
+0.0.0.0	i.instagram.com
+0.0.0.0	instagram-shv-01-ams2.fbcdn.net
+0.0.0.0	instagram-shv-01-ams3.fbcdn.net
+0.0.0.0	instagram-shv-01-ash5.fbcdn.net
+0.0.0.0	instagram-shv-01-atl1.fbcdn.net
+0.0.0.0	instagram-shv-01-bru2.fbcdn.net
+0.0.0.0	instagram-shv-01-cai1.fbcdn.net
+0.0.0.0	instagram-shv-01-cdg2.fbcdn.net
+0.0.0.0	instagram-shv-01-dfw1.fbcdn.net
+0.0.0.0	instagram-shv-01-fra3.fbcdn.net
+0.0.0.0	instagram-shv-01-gru1.fbcdn.net
+0.0.0.0	instagram-shv-01-hkg2.fbcdn.net
+0.0.0.0	instagram-shv-01-iad3.fbcdn.net
+0.0.0.0	instagram-shv-01-kul1.fbcdn.net
+0.0.0.0	instagram-shv-01-lax1.fbcdn.net
+0.0.0.0	instagram-shv-01-lga1.fbcdn.net
+0.0.0.0	instagram-shv-01-lhr3.fbcdn.net
+0.0.0.0	instagram-shv-01-mad1.fbcdn.net
+0.0.0.0	instagram-shv-01-mia1.fbcdn.net
+0.0.0.0	instagram-shv-01-mxp1.fbcdn.net
+0.0.0.0	instagram-shv-01-nrt1.fbcdn.net
+0.0.0.0	instagram-shv-01-ord1.fbcdn.net
+0.0.0.0	instagram-shv-01-sea1.fbcdn.net
+0.0.0.0	instagram-shv-01-sin1.fbcdn.net
+0.0.0.0	instagram-shv-01-sjc2.fbcdn.net
+0.0.0.0	instagram-shv-01-syd1.fbcdn.net
+0.0.0.0	instagram-shv-01-tpe1.fbcdn.net
+0.0.0.0	instagram-shv-01-vie1.fbcdn.net
+0.0.0.0	instagram-shv-02-cai1.fbcdn.net
+0.0.0.0	instagram-shv-02-hkg2.fbcdn.net
+0.0.0.0	instagram-shv-03-ash5.fbcdn.net
+0.0.0.0	instagram-shv-03-atn1.fbcdn.net
+0.0.0.0	instagram-shv-03-hkg1.fbcdn.net
+0.0.0.0	instagram-shv-03-lla1.fbcdn.net
+0.0.0.0	instagram-shv-03-prn2.fbcdn.net
+0.0.0.0	instagram-shv-03-xdc1.fbcdn.net
+0.0.0.0	instagram-shv-04-hkg1.fbcdn.net
+0.0.0.0	instagram-shv-06-atn1.fbcdn.net
+0.0.0.0	instagram-shv-06-lla1.fbcdn.net
+0.0.0.0	instagram-shv-07-ash4.fbcdn.net
+0.0.0.0	instagram-shv-07-frc3.fbcdn.net
+0.0.0.0	instagram-shv-09-frc1.fbcdn.net
+0.0.0.0	instagram-shv-09-lla1.fbcdn.net
+0.0.0.0	instagram-shv-12-frc1.fbcdn.net
+0.0.0.0	instagram-shv-12-frc3.fbcdn.net
+0.0.0.0	instagram-shv-12-lla1.fbcdn.net
+0.0.0.0	instagram-shv-12-prn1.fbcdn.net
+0.0.0.0	instagram-shv-13-frc1.fbcdn.net
+0.0.0.0	instagram-shv-17-prn1.fbcdn.net
+0.0.0.0	instagram-shv-18-prn1.fbcdn.net
+0.0.0.0	instagram.com
+0.0.0.0	instagramstatic-a.akamaihd.net
+0.0.0.0	instagramstatic-a.akamaihd.net.edgesuite.net
+0.0.0.0	logger.instagram.com
+0.0.0.0	platform.instagram.com
+0.0.0.0	scontent-iad3-1.cdninstagram.com
+0.0.0.0	scontent.cdninstagram.com
+0.0.0.0	telegraph-ash.instagram.com
+0.0.0.0	white.ish.instagram.com
+0.0.0.0	www.instagram.com
+0.0.0.0	cdninstagram.com
+
+
+
+
 ! Title: Whatsapp Block List
 ! Description: WhatsApp domains
 ! Homepage: https://github.com/blocklistproject/Lists
